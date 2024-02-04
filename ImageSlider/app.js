@@ -13,7 +13,7 @@ let clickCount = 0;
 let timeRunning = 3000;
 let timeAutoNext = 7000;
 
-thumbnailBorderDom.appendChild(thumbnailItemsDom[0]);
+thumbnailBorderDom.appendChild(thumbnailItemsDom[0]); 
 
 let runTimeOut;
 let runNextAuto = setTimeout(() => {
