@@ -85,6 +85,6 @@ This Image Slider is designed for creating visually appealing and interactive sl
 
 The Image Slider provides a user-friendly interface, allowing users to navigate through content seamlessly. It's suitable for enhancing the visual appeal of websites and engaging visitors effectively.
 
-## 6. Image Slider Preview <a name="image-slider-preview"></a>
+## 6. Image Slider Preview 
 
 ![Screenshot 2024-02-04 171222](https://github.com/RUPAKparajuli07/Image-slider-using-HTML-CSS-JS/assets/110843279/5c79605b-ca29-4860-a170-b4a536694a6f)
