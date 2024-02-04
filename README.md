@@ -11,6 +11,7 @@ This comprehensive documentation provides a detailed overview of an Image Slider
 3. [JavaScript Functionality](#javascript-functionality)
 4. [Features](#features)
 5. [Usage](#usage)
+6. [Image Slider Preview](#image-slider-preview)
 
 ## 1. HTML Structure <a name="html-structure"></a>
 
@@ -83,3 +84,7 @@ This Image Slider is designed for creating visually appealing and interactive sl
 - **Product Showcases:** Display products with detailed descriptions and links.
 
 The Image Slider provides a user-friendly interface, allowing users to navigate through content seamlessly. It's suitable for enhancing the visual appeal of websites and engaging visitors effectively.
+
+## 6. Image Slider Preview <a name="image-slider-preview"></a>
+
+![Screenshot 2024-02-04 171222](https://github.com/RUPAKparajuli07/Image-slider-using-HTML-CSS-JS/assets/110843279/5c79605b-ca29-4860-a170-b4a536694a6f)
