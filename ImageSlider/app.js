@@ -2,6 +2,11 @@ let nextDom = document.getElementById('next');
 let prevDom = document.getElementById('prev');
 let pauseDom = document.getElementById('pause');
 
+let carouselDom = document.querySelector('.carousel');
+let SliderDom = carouselDom.querySelector('.carousel .list');
+let thumbnailBorderDom = document.querySelector('.carousel .thumbnail');
+let thumbnailItemsDom = thumbnailBorderDom.querySelectorAll('.item');
+let timeDom = document.querySelector('.carousel .time');  
 
 let isPaused = false; 
 let clickCount = 0;
